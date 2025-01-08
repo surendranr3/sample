@@ -1,4 +1,2 @@
-print("****************")
-print('Hello World!!!')
-print('Hello World!!!')
-print("****************")
+for i in range(1, 101):
+    print(i)
